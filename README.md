@@ -1,5 +1,7 @@
 YouTube Video Link: https://youtu.be/3jgkmWfxwuE?si=tMJMfOW48bZn1NiK
 
+LinkedIn Profile: www.linkedin.com/in/hanuman-rajpurohit-203880383
+
 BNB Chain Website Clone – Web3 Blockchain Network UI (Educational Project)
 
 A modern, responsive clone of the official BNB Chain website. Built for learning, practice, and portfolio demonstration, this project recreates the design, layout, and content style of the BNB Chain ecosystem website — without backend or blockchain interaction.
